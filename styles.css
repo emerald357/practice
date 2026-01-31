@@ -2,4 +2,29 @@ h1 {
 color: #000000;
 }
 
+.about-body {
+    background-color: blueviolet;
+}
+
+.nav-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: white;
+    font-size: 22px;
+}
+
+.nav-header nav {
+    margin-top: 20px;
+}
+
+.nav-header a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
 
